@@ -1,0 +1,5 @@
+{
+    "sketch": "master_reader.ino",
+    "port": "/dev/ttyUSB0",
+    "board": "arduino:avr:uno"
+}
